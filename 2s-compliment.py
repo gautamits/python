@@ -9,4 +9,3 @@ for _ in range(int(raw_input())):
         count=count+ (32-bin(-a).count("1"))
         a+=1
     print count
-    print count
